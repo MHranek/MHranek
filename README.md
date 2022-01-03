@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MHranek
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning programming
+- 👀 I’m interested in programing and gaming
+- 🌱 I’m currently learning Web Development at Penn's Bootcamp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
