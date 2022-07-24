@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MHranek
 - 👀 I’m interested in programing and gaming
-- 🌱 I’m currently learning Web Development at Penn's Bootcamp
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at mhranekdev@gmail.com
 
 <!---
